@@ -1,0 +1,25 @@
+{
+  "name": "ccs_project",
+  "version": "1.0.0",
+  "description": "Author - OM KOLHAPURE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KALANTAK1/ccs_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KALANTAK1/ccs_project/issues"
+  },
+  "homepage": "https://github.com/KALANTAK1/ccs_project#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "path": "^0.12.7"
+  }
+}
